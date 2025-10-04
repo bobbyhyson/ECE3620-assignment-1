@@ -4,4 +4,5 @@ project(ECE3620_assignment_1)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(ECE3620_assignment_1
-        main.cpp)
+        main.cpp
+        equations.h)
